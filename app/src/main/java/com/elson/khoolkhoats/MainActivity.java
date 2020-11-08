@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
 
 
                 } else {
-                    Toast.makeText(getApplicationContext(), "Wrong Credentials", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(), "Invalid username and password", Toast.LENGTH_SHORT).show();
 
 
                 }
