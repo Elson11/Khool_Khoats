@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Khool Khoats</string>
+    <string name="email">Enter email</string>
+    <string name="pass">Enter password</string>
+    <string name="firstname">Enter first name</string>
+    <string name="surname">Enter Surname</string>
+    <string name="Chuz_pref_color">Choose preffered Color</string>
+    <string name="Royalty">Royalty</string>
+    <string name="Coolness">Coolness</string>
+    <string name="summer_dose">Summer Dose</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="formal">Formal</string>
+    <string name="header">Choose preffered Color</string>
+    <string name="quote">The best way to get something done is to do it. -Elson</string>
+    <string name="select">Select</string>
+    <string name="registerbtn">Register</string>
+    <string name="loginbttn">Login</string>
+    <string name="share">Share</string>
+    <string name="Settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="contact_us">Contact Us</string>
+
+</resources>
